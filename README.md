@@ -35,10 +35,11 @@ The best score for each metric is marked in **bold**.
 |-------------|-----------|--------|
 |SGM          |  4.989    |  36.22 |
 |PSMNet       |  2.183    |  21.95 |
+|GwcNet       |  2.265    |  22.80 |
 |HMSMNet      |  2.040    |  19.00 |
-|RAFT         |  1.729    |  14.12 |
-|DLNR         |  1.864    |  16.56 |
-|Ours         |**1.586**  |**12.63**|
+|S-RAFT       |  1.878    |  17.07 |
+|GREAT-Stereo |  1.847    |  16.95 |
+|Ours         |**1.726**  |**14.65**|
 
 ## Comparsion on US3D dataset
 The best score for each metric is marked in **bold**.
@@ -46,7 +47,8 @@ The best score for each metric is marked in **bold**.
 |-------------|-----------|--------|
 |SGM          |  2.398    |  19.93 |
 |PSMNet       |  1.499    |  9.22 |
+|GwcNet       |  1.406    |  8.09 |
 |HMSMNet      |  1.473    |  9.17 |
-|RAFT         |  1.366    |  7.72 |
-|DLNR         |  1.389    |  8.03 |
-|Ours         |**1.313**  |**7.17**|
+|S-RAFT       |  1.430    |  8.45 |
+|GREAT-Stereo |  1.408    |  8.01 |
+|Ours         |**1.393**  |**8.49**|
