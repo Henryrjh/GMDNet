@@ -10,6 +10,10 @@ This is the official code for GMDNet.
 ```cv```
 ```pandas```
 
+# Framework
+
+![framework](framework.png)
+
 ## Visualization
 
 ### Visualization on WHU-Stereo dataset
