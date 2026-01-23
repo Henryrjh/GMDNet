@@ -54,8 +54,8 @@ The best score for each metric is marked in **bold**.
 |GwcNet       |  1.406    |  8.09 |
 |HMSMNet      |  1.473    |  9.17 |
 |S-RAFT       |  1.430    |  8.45 |
-|GREAT-Stereo |  1.408    |  8.01 |
-|Ours         |**1.393**  |**7.84**|
+|GREAT-Stereo |  1.408    |  **8.01** |
+|Ours         |**1.393**  |8.49|
 
 ## Train
 Once our paper is accepted, we will release the training code.
