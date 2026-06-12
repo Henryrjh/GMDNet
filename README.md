@@ -45,8 +45,8 @@ The best score for each metric is marked in **bold**.
 |GREAT-Stereo |  1.847    |  16.95 |
 |Ours         |**1.726**  |**14.65**|
 
-## Comparsion on US3D dataset
-The best score for each metric is marked in **bold**.
+## Comparsion on US3D dataset 
+The best score for each metric is marked in **bold**. Note that the results reported in the paper are obtained by averaging the outcomes of five independent training runs. In contrast, the results released here are obtained from a single test run.
 |Method       |  EPE(Px)  |  D1(%) |
 |-------------|-----------|--------|
 |SGM          |  2.398    |  19.93 |
