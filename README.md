@@ -1,6 +1,6 @@
 # GMDNet
 This is the official code for GMDNet.
-## Requirements
+## Requirements (Only Linux)
 
 ```python```
 ```einops```
@@ -57,5 +57,5 @@ The best score for each metric is marked in **bold**. Note that the results repo
 |GREAT-Stereo |  1.408    |  **8.01** |
 |Ours         |**1.393**  |8.49|
 
-## Train
-Once our paper is accepted, we will release the training code.
+## Train and Testing
+The author is currently occupied with other matters and will organize and release it when time permits.
